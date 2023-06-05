@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Showroom</string>
+    <string name="home">Home</string>
+    <string name="showroom">Showroom</string>
+    <string name="mobil">Mobil</string>
+    <string name="sepeda_motor">Sepeda Motor</string>
+    <string name="promo">Promo</string>
+    <string name="setting">Setting</string>
+</resources>
